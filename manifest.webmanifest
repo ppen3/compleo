@@ -1,0 +1,23 @@
+{
+  "name": "compleo - 問題演習",
+  "short_name": "compleo",
+  "description": "試験・章・節別にカードで学べる自己判定型学習アプリ",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
